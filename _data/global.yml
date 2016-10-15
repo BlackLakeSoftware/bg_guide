@@ -1,0 +1,12 @@
+# Site Settings
+ # the base hostname & protocol for your site
+url: ''   #http://blacklakesoftware.github.io'
+
+title: "Blake's Garden Guide"
+description: 'This site collects various bits of information that we found useful for managing our garden.'
+footer_text: 'Thumbnail images used on this site are under copyright restrictions and may not be copied from this site and reused. Please contact the source of the images for use permission, if desired. The image hover caption identifies the image origin.'
+
+# Admin Settings
+admin_name: 'Mitch Kuppinger'
+admin_email: ''
+
