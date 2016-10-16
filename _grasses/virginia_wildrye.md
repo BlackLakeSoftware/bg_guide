@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: grass
 title: Virginia Wildrye
 scientific: Elymus virginicus
 name: virginia_wildrye

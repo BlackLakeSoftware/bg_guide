@@ -1,0 +1,8 @@
+<div id="GrassesNav" class="sidenav">
+  <ul>
+    <a href=#><h3>Grasses List</h3></a>
+    {% for grass in site.grasses %}
+      <a href="{{ grass.permalink }}">{{ grass.title }}</a>
+    {% endfor %}
+  </ul>
+</div>

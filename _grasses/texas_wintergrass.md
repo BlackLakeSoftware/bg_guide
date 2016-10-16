@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: grass
 title: Texas Wintergrass
 scientific: Nassella leucotricha
 name: texas_wintergrass

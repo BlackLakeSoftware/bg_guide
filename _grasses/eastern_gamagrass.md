@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: grass
 title: Eastern Gamagrass
 scientific: Tripsacum dactyloides
 name: eastern_gamagrass

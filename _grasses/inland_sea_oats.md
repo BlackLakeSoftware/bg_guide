@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: grass
 title: Inland Sea Oats
 scientific: Chasmanthium latifolium
 name: inland_sea_oats

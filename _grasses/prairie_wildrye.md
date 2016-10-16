@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: grass
 title: Prairie Wildrye
 scientific: Elymus canadensis
 name: prairie_wildrye

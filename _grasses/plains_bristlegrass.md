@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: grass
 title: Plains Bristlegrass
 scientific: Setaria vulpiseta
 name: plains_bristlegrass

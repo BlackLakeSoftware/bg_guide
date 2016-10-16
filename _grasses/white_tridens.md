@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: grass
 title: White Tridens
 scientific: Tridens albescens
 name: white_tridens

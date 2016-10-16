@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: grass
 title: Purpletop
 name: purpletop
 scientific: Tridens flavus

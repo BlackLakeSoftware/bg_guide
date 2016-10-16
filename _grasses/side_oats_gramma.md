@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: grass
 title: Sideoats Gramma
 scientific: Bouteloua curtipendula
 name: sideoats_gramma
