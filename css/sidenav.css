@@ -4,7 +4,7 @@ body {
 
 .sidenav {
     height: 100%;
-    width: 250px;
+    width: 0px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -30,10 +30,23 @@ body {
 
 .sidenav .closebtn {
     position: absolute;
-    top: 0;
+    top: 55px;
     right: 25px;
-    font-size: 36px;
+    font-size: 20px;
     margin-left: 50px;
+}
+
+.snopenbtn {
+    position: absolute;
+    top: 55px;
+    right: 0px;
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
 }
 
 @media screen and (max-height: 450px) {
