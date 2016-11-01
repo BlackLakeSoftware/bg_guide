@@ -2,7 +2,7 @@ main:
     - url: '/'
       text: 'Blog'
     - url: '/grasses'
-      text: 'Our Grasses'
+      text: 'Grasses'
       dropdn: 'grasses'
     - url: '/irrigation'
       text: 'Irrigation'

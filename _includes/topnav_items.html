@@ -1,16 +1,10 @@
 {% for item in site.data.nav.main %}
 
   {% if item.dropdn %}
+
     <li class="dropdown">
-      <a href="{{ item.url }}" class="dropbtn">{{ item.text }}</a>
-
-      <div class="dropdown-content">
-
-        {% for grass in site.grasses %}
-          <a href="{{ grass.permalink }}">{{ grass.title }}</a>
-        {% endfor %}
-
-      </div>
+      <a href=# class="dropbtn">{{ item.text }}</a>
+      {% include topnav_cntnt_{{ item.dropdn }}.html %}
     </li>
 
   {% else %}
