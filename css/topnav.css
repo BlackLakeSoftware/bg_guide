@@ -23,7 +23,7 @@ ul.topnav li a, .dropbtn {
 
 /* Change background color of links on hover */
 ul.topnav li a:hover, .dropdown:hover, .dropbtn:hover {
-  background-color: #555;
+  background-color: gray;
   color: white;
 }
 
@@ -34,8 +34,24 @@ ul.topnav li.dropdown {
 ul.topnav li.dropdown .dropdown-content {
     display: none;
     position: absolute;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 10px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 10px; /* Firefox */
+    column-gap: 10px;
+    -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
+    -moz-column-rule-style: solid; /* Firefox */
+    column-rule-style: solid;
+    -webkit-column-rule-width: 1px; /* Chrome, Safari, Opera */
+    -moz-column-rule-width: 1px; /* Firefox */
+    column-rule-width: 1px;
+    -webkit-column-rule-color: black; /* Chrome, Safari, Opera */
+    -moz-column-rule-color: black; /* Firefox */
+    column-rule-color: black;
     background-color: white;
-    min-width: 160px;
+    width: 200%;
+    min-width: 280px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
@@ -54,7 +70,7 @@ ul.topnav li.dropdown:hover .dropdown-content {
 }
 
 ul.topnav li.dropdown .dropdown-content a:hover {
-    background-color: #888
+    background-color: #eee;
 }
 
 /* Hide the list item that contains the link that should open and close the topnav on small screens */
@@ -88,5 +104,28 @@ ul.topnav li.icon {display: none;}
   ul.topnav.responsive li a {
     display: block;
     text-align: left;
+  }
+
+  ul.topnav.responsive li.dropdown .dropdown-content {
+    position: absolute;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 10px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 10px; /* Firefox */
+    column-gap: 10px;
+    -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
+    -moz-column-rule-style: solid; /* Firefox */
+    column-rule-style: solid;
+    -webkit-column-rule-width: 1px; /* Chrome, Safari, Opera */
+    -moz-column-rule-width: 1px; /* Firefox */
+    column-rule-width: 1px;
+    -webkit-column-rule-color: black; /* Chrome, Safari, Opera */
+    -moz-column-rule-color: black; /* Firefox */
+    column-rule-color: black;
+    background-color: white;
+    width: 100%;
+    min-width: 280px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   }
 }
