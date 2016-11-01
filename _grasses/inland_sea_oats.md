@@ -6,7 +6,7 @@ symbol:     CHLA5
 permalink:  /CHLA5/
 ---
 
-## Images
+#### Images
 
 [![seed_heads]][lbj_CHLA5_seeds]
 [![clumps]][lbj_CHLA5_clumps]
@@ -24,7 +24,7 @@ permalink:  /CHLA5/
 [lbj_CHLA5_leaf_origin]: http://www.wildflower.org/gallery/result.php?id_image=42960 "Peggy Romfh, Lady Bird Johnson Wildflower Center"
 
 
-## Resources
+#### Resources
 
 [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 

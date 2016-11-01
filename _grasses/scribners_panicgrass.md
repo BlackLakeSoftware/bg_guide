@@ -6,7 +6,7 @@ symbol:     DIOL
 permalink:  /DIOL/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][noble_DIOL_wholeplant]
 [![leaves]][ksnative_DIOL_leaves]
@@ -30,7 +30,7 @@ permalink:  /DIOL/
 [illwild_DIOL_spiklets]: http://www.illinoiswildflowers.info/grasses/plants/scribner_panic.htm "Unknown, Illinois Wildflowers"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

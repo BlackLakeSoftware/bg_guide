@@ -6,7 +6,7 @@ symbol:     TRDA3
 permalink:  /TRDA3/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][lbj_TRDA3_whole_plant]
 [![flowers]][lbj_TRDA3_flowers]
@@ -21,7 +21,7 @@ permalink:  /TRDA3/
 [lbj_TRDA3_staminate_spikelets]: http://www.wildflower.org/gallery/result.php?id_image=36845 "Carolyn Fannon, Lady Bird Johnson Wildflower Center"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

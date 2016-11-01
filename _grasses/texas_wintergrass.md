@@ -6,7 +6,7 @@ symbol:     NALE3
 permalink:  /NALE3/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][uvtamu_NALE3_wholeplant]
 [![seed]][uvtamu_NALE3_seed]
@@ -24,7 +24,7 @@ permalink:  /NALE3/
 [uvtamu_NALE3_leaf]: http://uvalde.tamu.edu/herbarium/grasses-commom-index/texas-wintergrass/stle_lf-3 "Christine Thompson, Tx A&M Uvalde Herbarium"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

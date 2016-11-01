@@ -6,7 +6,7 @@ symbol:     BOCU
 permalink:  /BOCU/
 ---
 
-## Images
+#### Images
 
 [![swath]][wikimed_BOCU_swath]
 [![wholeplant]][uvtamu_BOCU_wholeplant]
@@ -27,7 +27,7 @@ permalink:  /BOCU/
 [uvtamu_BOCU_collar]: http://uvalde.tamu.edu/herbarium/grasses-commom-index/sideoats-grama/bocu_collar "Christine Thompson, Tx A&M Uvalde Herbarium"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

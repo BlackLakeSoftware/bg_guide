@@ -6,7 +6,7 @@ symbol:     ELVI3
 permalink:  /ELVI3/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][wikimed_ELVI3_wholeplant]
 [![seedhead]][msplant_ELVI3_seedhead]
@@ -27,7 +27,7 @@ permalink:  /ELVI3/
 [msplant_ELVI3_node]: http://www.missouriplants.com/Grasses/Elymus_virginicus_page.html "Unknown, Missouri Plants"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

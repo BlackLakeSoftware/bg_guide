@@ -6,7 +6,7 @@ symbol:     SEVU2
 permalink:  /SEVU2/
 ---
 
-## Images
+#### Images
 
 [![seedhead]][uvtamu_SEVU2_seedhead]
 [![collar]][uvtamu_SEVU2_collar]
@@ -21,7 +21,7 @@ permalink:  /SEVU2/
 [uvtamu_SEVU2_seedhead-immature]: http://uvalde.tamu.edu/herbarium/grasses-commom-index/plains-bristlegrass/sele_sdhdn "Christine Thompson, Tx A&M Uvalde Herbarium"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

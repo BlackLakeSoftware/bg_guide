@@ -1,5 +1,10 @@
 main:
-    - { url: '/', text: 'Blog' }
-    - { url: '/grasses', text: 'Grasses' }
-    - { url: '/irrigation', text: 'Irrigation' }
-    - { url: '/about', text: 'About' }
+    - url: '/'
+      text: 'Blog'
+    - url: '/grasses'
+      text: 'Our Grasses'
+      dropdn: 'grasses'
+    - url: '/irrigation'
+      text: 'Irrigation'
+    - url: '/about'
+      text: 'About'

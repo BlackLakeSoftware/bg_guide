@@ -6,7 +6,7 @@ symbol:     TRFL2
 permalink:  /TRFL2/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][lbj_TRFL2_whole_plant]
 [![flowers]][lbj_TRFL2_flowers]
@@ -21,7 +21,7 @@ permalink:  /TRFL2/
 [illwild_TRFL2_collar]: http://www.illinoiswildflowers.info/grasses/plants/purpletop.htm "Unknown, Illinois Wildflowers"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

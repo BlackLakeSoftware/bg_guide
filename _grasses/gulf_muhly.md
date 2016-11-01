@@ -6,7 +6,7 @@ symbol:     MUCA2
 permalink:  /MUCA2/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][lbj_MUCA2_wholeplant]
 [![foliage]][lbj_MUCA2_foliage]
@@ -27,7 +27,7 @@ permalink:  /MUCA2/
 [lbj_MUCA2_floret]: http://www.wildflower.org/gallery/result.php?id_image=28073 "Sam Strickland, Lady Bird Johnson Wildflower Center"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

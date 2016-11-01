@@ -6,7 +6,7 @@ symbol:     ELCA4
 permalink:  /ELCA4/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][lbj_ELCA4_wholeplant]
 [![seedhead]][lbj_ELCA4_seedhead]
@@ -21,7 +21,7 @@ permalink:  /ELCA4/
 [minnwf_ELCA4_collar]: https://www.minnesotawildflowers.info/grass-sedge-rush/canada-wild-rye "Unknown, Minnesota Wild Flowers"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})

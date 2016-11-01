@@ -6,7 +6,7 @@ symbol:     TRAL2
 permalink:  /TRAL2/
 ---
 
-## Images
+#### Images
 
 [![wholeplant]][uvtamu_TRAL2_wholeplant]
 [![seedhead]][uvtamu_TRAL2_seedhead]
@@ -24,7 +24,7 @@ permalink:  /TRAL2/
 [uvtamu_TRAL2_stem]: http://uvalde.tamu.edu/herbarium/grasses-commom-index/white-tridens/tral_st "Christine Thompson, Tx A&M Uvalde Herbarium"
 
 
-## Resources
+#### Resources
 
 * [Lady Bird Johnson Wildflower Center](http://www.wildflower.org/plants/result.php?id_plant={{ page.symbol }})
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})
