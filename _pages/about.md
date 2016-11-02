@@ -5,8 +5,12 @@ permalink: /about/
 ---
 
 **Created with:** jekyll
+
 **Hosted on:** Netlify
+
 **URL:** http://bgguide.netlify.com/
+
+___
 
 **Initial publication:** Nov 1, 2016
 
