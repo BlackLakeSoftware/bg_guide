@@ -110,16 +110,15 @@ h1.special {
 .tile {
     position: relative;
     box-shadow: 0 0.15em 0.35em 0 rgba(0, 0, 0, 0.135);
-    margin-bottom: 125px;
+    margin-bottom: 80px;
 
-    .inner-guts { padding: 50px; }
+    .inner-guts { padding: 40px; }
 
-    h2 {
+    h4 {
         margin: 0;
-        font-size: 100px;
         font-weight: 400;
         letter-spacing: -0.05em;
-        line-height: 100px;
+        line-height: 32px;
     }
 
     .featurette {
@@ -179,9 +178,9 @@ h1.special {
     }
 
     .excerpt {
-        font-size: 35px;
+        font-size: 20px;
         font-weight: 300;
-        line-height: 49px;
+        line-height: 30px;
         color: #484848;
 
         p {
@@ -205,9 +204,9 @@ h1.special {
     }
 
     .read-more {
-        margin-top: 50px;
+        margin-top: 25px;
         width: 100%;
-        max-width: 175px;
+        max-width: 150px;
         position: relative;
         padding-right: 75px;
 
@@ -225,7 +224,7 @@ h1.special {
 aside {
     font-size: 17px;
     color: #525252;
-    margin: 16px 0;
+    margin: 10px 0;
     @extend %oswald;
 
     span {
@@ -287,10 +286,14 @@ pre {
         height: 300px;
     }
 
-    h1.special,
-    .tile h2 {
-        font-size: 30px;
-        line-height: 33px;
+    h1.special {
+    font-size: 36px;
+    line-height: 36px;
+    }
+
+    .tile h4 {
+        line-height: 28px;
+        padding: 0;
     }
 
     .tile .inner-guts {
@@ -298,7 +301,7 @@ pre {
     }
 
     .tile .excerpt {
-        font-size: 22px;
-        line-height: 35px;
+        font-size: 18px;
+        line-height: 22px;
     }
 }
