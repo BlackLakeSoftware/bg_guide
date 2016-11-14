@@ -1,0 +1,7 @@
+<div class="container-fluid">
+  {% for img in include.images %}
+    <div class="col-md-6">
+      {% include blog/image.html name=img.name alt=img.alt caption=img.caption width=img.width %}
+    </div>
+  {% endfor %}
+</div>
