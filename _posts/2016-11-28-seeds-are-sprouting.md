@@ -19,5 +19,5 @@ Today I found many very small sprouts from the grass seeds. The grass sprout in 
 <br><br>
 
 
-[img_1]: /assets/post_images/2016-11-28-seeds-are-sprouting/grass-sprouts-11-28.jpg
-[img_1]: /assets/post_images/2016-11-28-seeds-are-sprouting/grass-sprouts-11-28.jpg
+[img_1]: /assets/post_images/2016-11-28-seeds-are-sprouting/wildflower-sprouts-11-26.jpg
+[img_2]: /assets/post_images/2016-11-28-seeds-are-sprouting/grass-sprouts-11-28.jpg
