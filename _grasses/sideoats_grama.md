@@ -33,4 +33,4 @@ permalink:  /BOCU/
 * [USDA](http://plants.usda.gov/core/profile?symbol={{ page.symbol }})
 * [Tx A&M Uvalde Herbarium](http://uvalde.tamu.edu/herbarium/grasses-commom-index)
 * [Wikipedia](https://en.wikipedia.org/wiki{{ page.scientific | replace: " ", "_"  | prepend: "/" }})
-
+* [Johnston Seed Company](http://www.jeinc.com/sideoats-grama)
