@@ -22,4 +22,4 @@ We also nearly violated several other recomendations from Johnston Seed. Plantin
 
 * [Native American Seed](http://www.seedsource.com/catalog/detail.asp?product_id=2004)
 
-Our information from them came via phone conversation. The recommended fall planting, No top cover. Without the pictures and the scientific name, Bouteloua curtipendula, I would think we were talking about two different grasses!
+Our information from them came via phone conversation. They recommended fall planting, No top cover. Without the pictures and the scientific name, Bouteloua curtipendula, I would think we were talking about two different grasses!
